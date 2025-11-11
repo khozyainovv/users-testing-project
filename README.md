@@ -6,7 +6,7 @@
 Пользователь может регистрироваться, создавать и редактировать сотрудников и задачи.
 Менеджер имеет расширенные права доступа.
 <ul>
-<li>  <a href="https://drive.google.com/file/d/1CgNABqAxnatQCGm5L9KsUDoGbKHoYZgh/view?usp=sharing"> Требования </a> - 📄 Документ с требованиями к веб-приложению Users.bugred.ru </li>
-<li> <a href="https://drive.google.com/file/d/1dmFigDmrGxlbp2AXm2Ht_s7wqyHBtOc8/view?usp=sharing">Тестовые примеры через Trello</a> - 📸 2. Файл со скриншотами багов</li>
+<li>  <a href="https://drive.google.com/file/d/1CgNABqAxnatQCGm5L9KsUDoGbKHoYZgh/view?usp=sharing"> Требования </a> - Документ с требованиями к веб-приложению Users.bugred.ru </li>
+<li> <a href="https://drive.google.com/file/d/1dmFigDmrGxlbp2AXm2Ht_s7wqyHBtOc8/view?usp=sharing">Тестовые примеры через Trello</a> - Файл со скриншотами багов</li>
 
 </ul>
